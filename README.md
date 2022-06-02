@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 | Command | Description |
 | --- | --- |
-| “*” George Washington | List all new or modified files |
+| * George Washington | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
