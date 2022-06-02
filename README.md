@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - :computer: Currently pursing **Web Development graduate** certificate at **Humber College**.
 
-:technologist: ## Languages
+## :technologist: Languages
 ###### Front-End
 - HTML
 - CSS (Bootstrap, Material ui, Bulma)
