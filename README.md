@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nidhi!
+# Hi there 👋 I'm Nidhi!
 
 <!--
 **nidhipatel439/nidhipatel439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 - PHP
 ###### Tools
 - Figma
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=nidhipatel439&theme=material-palenight&show_icons=true&count_private=true)
