@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 ## Languages
 
-
-
-| Command | Description |
-| --- | --- |
-| - George Washington | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+###### Front-End
+- HTML
+- CSS (Bootstrap, Material ui, Bulma)
+- JavaScript (jQuery,Node.js, Express, Pug)
