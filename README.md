@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 
 | Command | Description |
 | --- | --- |
-| - HTML | List all new or modified files |
+| - George Washington
+- John Adams
+- Thomas Jefferson | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
