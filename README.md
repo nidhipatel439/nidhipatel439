@@ -18,8 +18,14 @@ Here are some ideas to get you started:
 - :computer: Currently pursing **Web Development graduate** certificate at **Humber College**.
 
 ## Languages
-
 ###### Front-End
 - HTML
 - CSS (Bootstrap, Material ui, Bulma)
 - JavaScript (jQuery,Node.js, Express, Pug)
+###### Back-End
+- MySQL
+- MongoDB
+- C# (ASP.NET)
+- PHP
+###### Tools
+- Figma
