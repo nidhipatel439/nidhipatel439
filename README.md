@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 ## Languages
 | Front-End  | Back-End | Tools |
 | ------------- | ------------- |
-| - HTML
-- CSS (Bootstrap, Material-ui, Bulma)
-- JavaScript (jQuery, Node.js, Express, Pug)  | -MySQL
-- MongoDB
-- C# (ASP.NET)
-- PHP  | - Figma
+| - HTML | -MySQL | - Figma |
+|- CSS (Bootstrap, Material-ui, Bulma) | - MongoDB |
+| - JavaScript (jQuery, Node.js, Express, Pug)  | - C# (ASP.NET) |
+| | - PHP | 
