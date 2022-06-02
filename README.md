@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :computer: Currently pursing **Web Development graduate** certificate at **Humber College**.
+
+## Languages
+| Front-End  | Back-End | Tools |
+| ------------- | ------------- |
+| - HTML
+- CSS (Bootstrap, Material-ui, Bulma)
+- JavaScript (jQuery, Node.js, Express, Pug)  | -MySQL
+- MongoDB
+- C# (ASP.NET)
+- PHP  | - Figma
