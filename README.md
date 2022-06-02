@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :computer: Currently pursing **Web Development graduate** certificate at **Humber College**.
+- :computer: Currently pursing **Web Development graduate certificate** at **Humber College**.
 
 ## :technologist: Languages
 ###### Front-End
