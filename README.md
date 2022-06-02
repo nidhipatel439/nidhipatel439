@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 - :computer: Currently pursing **Web Development graduate** certificate at **Humber College**.
 
 ## Languages
-| Front-End  | Back-End | Tools |
-| ------------- | ------------- |
-| - HTML | -MySQL | - Figma |
-|- CSS (Bootstrap, Material-ui, Bulma) | - MongoDB |
-| - JavaScript (jQuery, Node.js, Express, Pug)  | - C# (ASP.NET) |
-| | - PHP | 
+
+
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
