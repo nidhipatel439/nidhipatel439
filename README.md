@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ###### Front-End
 - HTML
 - CSS (Bootstrap, Material ui, Bulma)
-- JavaScript/TypeScript (jQuery,React, Node.js, Express, Pug)
+- JavaScript/TypeScript (jQuery, React, Node.js, Express, Pug)
 ###### Back-End
 - MySQL
 - PostgreSQL
