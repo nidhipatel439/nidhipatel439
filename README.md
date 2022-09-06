@@ -21,12 +21,15 @@ Here are some ideas to get you started:
 ###### Front-End
 - HTML
 - CSS (Bootstrap, Material ui, Bulma)
-- JavaScript (jQuery,Node.js, Express, Pug)
+- JavaScript/TypeScript (jQuery,React, Node.js, Express, Pug)
 ###### Back-End
 - MySQL
+- PostgreSQL
 - MongoDB
 - C# (ASP.NET)
 - PHP
+###### ORM
+- Prisma
 ###### Tools
 - Figma
 
