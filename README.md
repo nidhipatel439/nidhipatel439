@@ -18,19 +18,11 @@ Here are some ideas to get you started:
 - :computer: Currently pursing **Web Development graduate certificate** at **Humber College**.
 
 ## :technologist: Languages
-###### Front-End
-- HTML
-- CSS (Bootstrap, Material ui, Bulma)
-- JavaScript/TypeScript (jQuery, React, Node.js, Express, Pug)
-###### Back-End
-- MySQL
-- PostgreSQL
-- MongoDB
-- C# (ASP.NET)
-- PHP
-###### ORM
-- Prisma
-###### Tools
-- Figma
+
+| Front-End                                     | Backend           | Database   | ORM    | Tools |
+|-----------------------------------------------|-------------------|------------|--------|-------|
+| HTML                                          | NodeJS(ExpressJS) | MySQL      | Prisma | Figma |
+| CSS (Bootstrap, Material-UI, Bulma, Tailwind) | C# (ASP.NET)      | PostgreSQL |        |       |
+| JavaScript/TypeScript (jQuery, React)         | PHP               | MongoDB    |        |       |
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nidhipatel439&theme=material-palenight&show_icons=true&count_private=true)
