@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidhi Patel</h1>
 <h3 align="center">A passionate Full Stack Developer having an experience of building Web application with JavaScript/ReactJS/NodeJS and some other cool libraries and frameworks.</h3>
+<img align="right" alt="Women in tech" width="450" src="https://nidhi-patel.netlify.app/assets/profile.67475cc6.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhipatel439&label=Profile%20views&color=0e75b6&style=flat" alt="nidhipatel439" /> </p>
 
