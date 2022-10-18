@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nidhipatel439@gmail.com**
 
-- 📄 Know about my experiences [Nidhi_CV](https://nidhi-patel.netlify.app/assets/Nidhi_CV.15553dc4.pdf)
+- 📄 Know about my experiences [Nidhi_CV](https://nidhi-patel.netlify.app/assets/Nidhi_CV.acbe3f4f.pdf)
 
 - ⚡ Fun fact **I like to painting in free time**
 
